@@ -1,5 +1,6 @@
-PlotMe-Core
+PlotMe-Core PVP
 ===========
+A fork of Plotme-Core with pvp support
 Bukkit Plugin for managing plots. The plugin is able to operate on worlds which are generated using a class that implement the IPlotMe_ChunkGenerator. PlotMe-DefaultGenerator is the first plugin that implement that generator.
 
 Dev Builds: http://ci.worldcretornica.com/
